@@ -1,0 +1,12 @@
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\BinarySearch.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\BinarySearch.Tests.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\BinarySearch.Tests.pdb
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\BinarySearch.pdb
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\ConsoleApplication1\bin\Debug\nunit.framework.xml

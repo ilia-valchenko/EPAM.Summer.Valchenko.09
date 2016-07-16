@@ -1,0 +1,10 @@
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\BinarySearch.Tests.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\BinarySearch.Tests.pdb
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\BinarySearch.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\BinarySearch.pdb
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\obj\Debug\BinarySearch.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\obj\Debug\BinarySearch.Tests.dll
+C:\Users\Ilia\documents\visual studio 2015\Projects\BinarySearch\BinarySearch.Tests\obj\Debug\BinarySearch.Tests.pdb
