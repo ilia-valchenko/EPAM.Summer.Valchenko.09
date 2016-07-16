@@ -1,0 +1,6 @@
+c:\users\ilia\documents\visual studio 2015\Projects\EventsConsoleApplication\EventsConsoleApplication\bin\Debug\EventsConsoleApplication.exe.config
+c:\users\ilia\documents\visual studio 2015\Projects\EventsConsoleApplication\EventsConsoleApplication\bin\Debug\EventsConsoleApplication.exe
+c:\users\ilia\documents\visual studio 2015\Projects\EventsConsoleApplication\EventsConsoleApplication\bin\Debug\EventsConsoleApplication.pdb
+c:\users\ilia\documents\visual studio 2015\Projects\EventsConsoleApplication\EventsConsoleApplication\obj\Debug\EventsConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\ilia\documents\visual studio 2015\Projects\EventsConsoleApplication\EventsConsoleApplication\obj\Debug\EventsConsoleApplication.exe
+c:\users\ilia\documents\visual studio 2015\Projects\EventsConsoleApplication\EventsConsoleApplication\obj\Debug\EventsConsoleApplication.pdb
