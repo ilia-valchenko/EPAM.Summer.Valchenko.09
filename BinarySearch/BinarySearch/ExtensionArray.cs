@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace BinarySearch
 {
+    /// <summary>
+    /// This extension class provides custom generic binary search.
+    /// </summary>
     public static class ExtensionArray
     {
+        /// <summary>
+        /// This method finds index of element by using dichotomy method.
+        /// </summary>
+        /// <typeparam name="T">Type of element.</typeparam>
+        /// <param name="array">Collection which may cantain the element.</param>
+        /// <param name="element">Seeking element.</param>
+        /// <param name="comparator">Comparison criterion.</param>
+        /// <returns></returns>
         public static int BinarySearch<T>(this T[] array, T element, Func<T, T, int> comparator) 
         {
             if(array == null)

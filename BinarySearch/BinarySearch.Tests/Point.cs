@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BinarySearch.Tests
 {
+    /// <summary>
+    /// This class represents a point in two-demension space.
+    /// </summary>
     public class Point : IComparer<Point>
     {
         public int X { get; set; }
