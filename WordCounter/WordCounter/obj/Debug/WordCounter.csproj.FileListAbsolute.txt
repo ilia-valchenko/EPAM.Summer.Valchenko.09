@@ -1,0 +1,5 @@
+c:\users\ilia\documents\visual studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.dll
+c:\users\ilia\documents\visual studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+c:\users\ilia\documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+c:\users\ilia\documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.dll
+c:\users\ilia\documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
